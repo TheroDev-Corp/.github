@@ -1,69 +1,68 @@
 <div align="center">
 
-# T H E R O D E V &nbsp; C O R P .
-### INTERNAL R&D DEPARTMENT / DIVISION 6
+# 𝚃 𝙷 𝙴 𝚁 𝙾 𝙳 𝙴 𝚅 &nbsp; // &nbsp; 𝙲 𝙾 𝚁 𝙿 .
+### `INTERNAL R&D` ░░ `DIVISION 06` ░░ `CLEARANCE: O5`
 
-![System Status](https://img.shields.io/badge/SYSTEM_STATUS-OPERATIONAL-success?style=for-the-badge&logo=prometheus&logoColor=white)
-![Clearance](https://img.shields.io/badge/CLEARANCE-LEVEL_O5-000000?style=for-the-badge&logo=vault&logoColor=orange)
-![Infrastructure](https://img.shields.io/badge/INFRASTRUCTURE-HYBRID_CLOUD-blue?style=for-the-badge&logo=googlecloud&logoColor=white)
+![System Status](https://img.shields.io/badge/SYSTEM-OPERATIONAL-000000?style=flat-square&labelColor=238636&logo=prometheus&logoColor=white)
+![Clearance](https://img.shields.io/badge/ACCESS-AUTHORIZED-000000?style=flat-square&labelColor=333&logo=vault&logoColor=white)
+![Infrastructure](https://img.shields.io/badge/NET-HYBRID_CLOUD-000000?style=flat-square&labelColor=333&logo=googlecloud&logoColor=white)
+![Uptime](https://img.shields.io/badge/UPTIME-98.5%25-000000?style=flat-square&labelColor=333&logo=grafana&logoColor=white)
 
 <br/>
 
-<img width="100%" alt="og-image" src="https://github.com/user-attachments/assets/0d2448a7-e661-4007-b2a0-ff650bbbc5a9" />
+<img width="100%" src="https://github.com/user-attachments/assets/0d2448a7-e661-4007-b2a0-ff650bbbc5a9" />
 
 </div>
-
----
 
 ### **/// OPERATIONAL DOCTRINE**
 
-> **`SYSTEM_MSG:`** *Efficiency is the only currency that matters. Entropy is the only enemy.*
-> 
-> **MISSION:** Build reliable, self-healing infrastructure for chaotic environments.
-> 
-> **STRATEGY:** GitOps-first, Zero Trust, Infrastructure as Code.
+```ini
+[SYSTEM_MSG]: Efficiency is the only currency that matters. Entropy is the only enemy.
 
----
-
-### **/// GLOBAL NETWORK TOPOLOGY**
-
-| **ZONE** | **REGION** | **NODE TYPE** | **LATENCY** | **STATUS** |
-| :--- | :--- | :--- | :--- | :--- |
-| **EU-NORTH** | `Stockholm` | Edge / Ingress | `~45ms` | ![Online](https://img.shields.io/badge/ONLINE-success?style=flat-square) |
-| **EU-WEST** | `Amsterdam` | Core / Compute | `~55ms` | ![Online](https://img.shields.io/badge/ONLINE-success?style=flat-square) |
-| **RU-CENTRAL** | `Moscow` | Relay / Bridge | `~12ms` | ![Online](https://img.shields.io/badge/ONLINE-success?style=flat-square) |
-| **HOME-NET** | `[REDACTED]` | R&D Lab / Storage | `0ms` | ![Maintenance](https://img.shields.io/badge/MAINTENANCE-yellow?style=flat-square) |
-
----
-
-### **/// TECHNOLOGY STACK & TOOLING**
-
-<div align="center">
-
-| **CATEGORY** | **STACK** |
-| :--- | :--- |
-| **ORCHESTRATION** | ![K8s](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white) ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white) |
-| **INFRASTRUCTURE** | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white) ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white) |
-| **OBSERVABILITY** | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) ![VictoriaMetrics](https://img.shields.io/badge/VictoriaMetrics-000000?style=for-the-badge&logo=victoriametrics&logoColor=white) |
-| **SECURITY** | ![Teleport](https://img.shields.io/badge/Teleport-5C2D91?style=for-the-badge&logo=teleport&logoColor=white) ![CrowdSec](https://img.shields.io/badge/CrowdSec-F8D002?style=for-the-badge&logo=crowdsec&logoColor=black) ![VaultWarden](https://img.shields.io/badge/VaultWarden-175DDC?style=for-the-badge&logo=bitwarden&logoColor=white) |
-| **CORE** | ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
-
-</div>
-
----
-
-### **/// DEPLOYMENT ACTIVITY**
-
-<!-- Если хочешь добавить график коммитов, раскомментируй строку ниже и вставь свой ник -->
-<!-- ![Metrics](https://github-readme-stats.vercel.app/api?username=Th3roo&show_icons=true&theme=dark&hide_border=true&bg_color=000000) -->
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/UPLINK-THERODEV.COM-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://therodev.com)
-[![GitHub](https://img.shields.io/badge/SOURCE-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Th3roo)
+> MISSION_ID  : INFRA_RESILIENCE_V2
+> OBJECTIVE   : Build self-healing infrastructure for hostile environments.
+> PROTOCOL    : GitOps-first // Zero Trust // IaC
+```
 
 <br/>
 
-**© 2026 THERODEV CORP.** | *AUTHORIZED PERSONNEL ONLY*
+### **/// GLOBAL_NETWORK_TOPOLOGY**
+
+| **ZONE_ID** | **REGION** | **NODE_TYPE** | **LATENCY** | **INTEGRITY** |
+| :--- | :--- | :--- | :--- | :--- |
+| **EU-N** | `Stockholm` | `EDGE / INGRESS` | `~045ms` | ![Signal](https://img.shields.io/badge/SIGNAL-STRONG-000000?style=flat-square&labelColor=238636) |
+| **EU-W** | `Amsterdam` | `CORE / COMPUTE` | `~055ms` | ![Signal](https://img.shields.io/badge/SIGNAL-STRONG-000000?style=flat-square&labelColor=238636) |
+| **RU-C** | `Moscow` | `RELAY / BRIDGE` | `~012ms` | ![Signal](https://img.shields.io/badge/SIGNAL-NOMINAL-000000?style=flat-square&labelColor=238636) |
+| **H-NET** | `[REDACTED]` | `LAB / STORAGE` | `000ms` | ![Signal](https://img.shields.io/badge/SIGNAL-MAINTENANCE-000000?style=flat-square&labelColor=D29922) |
+
+<br/>
+
+### **/// HARDWARE & ORCHESTRATION_ASSETS**
+
+<div align="center">
+
+| **CLASS** | **DEPLOYED ASSETS** |
+| :--- | :--- |
+| **ORCHESTRATION** | ![K8s](https://img.shields.io/badge/K8S-v1.35-000000?style=flat-square&logo=kubernetes&logoColor=white&labelColor=222) ![Helm](https://img.shields.io/badge/HELM-CHART-000000?style=flat-square&logo=helm&logoColor=white&labelColor=222) ![Argo](https://img.shields.io/badge/ARGO-GITOPS-000000?style=flat-square&logo=argo&logoColor=white&labelColor=222) |
+| **INFRASTRUCTURE** | ![TF](https://img.shields.io/badge/TERRAFORM-IAC-000000?style=flat-square&logo=terraform&logoColor=white&labelColor=222) ![Ansible](https://img.shields.io/badge/ANSIBLE-CONFIG-000000?style=flat-square&logo=ansible&logoColor=white&labelColor=222) ![GCP](https://img.shields.io/badge/GCP-CLOUD-000000?style=flat-square&logo=google-cloud&logoColor=white&labelColor=222) |
+| **OBSERVABILITY** | ![Prom](https://img.shields.io/badge/PROMETHEUS-METRICS-000000?style=flat-square&logo=prometheus&logoColor=white&labelColor=222) ![Graf](https://img.shields.io/badge/GRAFANA-VISUAL-000000?style=flat-square&logo=grafana&logoColor=white&labelColor=222) ![VM](https://img.shields.io/badge/VICTORIA-TSDB-000000?style=flat-square&logo=victoriametrics&logoColor=white&labelColor=222) |
+| **SEC_OPS** | ![Tele](https://img.shields.io/badge/TELEPORT-ACCESS-000000?style=flat-square&logo=teleport&logoColor=white&labelColor=222) ![Crowd](https://img.shields.io/badge/CROWDSEC-IPS-000000?style=flat-square&logo=crowdsec&logoColor=white&labelColor=222) ![Vault](https://img.shields.io/badge/VAULT-SECRETS-000000?style=flat-square&logo=bitwarden&logoColor=white&labelColor=222) |
+| **ENGINEERING** | ![Go](https://img.shields.io/badge/GO_LANG-SYSTEM-000000?style=flat-square&logo=go&logoColor=white&labelColor=222) ![Py](https://img.shields.io/badge/PYTHON-SCRIPT-000000?style=flat-square&logo=python&logoColor=white&labelColor=222) ![Lin](https://img.shields.io/badge/LINUX-KERNEL-000000?style=flat-square&logo=linux&logoColor=white&labelColor=222) |
+
+</div>
+
+<br/>
+
+### **/// DEPLOYMENT_LOGS**
+
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/LINK-THERODEV.COM-000000?style=flat-square&logo=google-chrome&logoColor=white&labelColor=222)](https://therodev.com)
+[![GitHub](https://img.shields.io/badge/LINK-GITHUB_SOURCE-000000?style=flat-square&logo=github&logoColor=white&labelColor=222)](https://github.com/Th3roo)
+
+<br/>
+
+`© 2026 THERODEV CORP. // AUTHORIZED PERSONNEL ONLY`
 
 </div>
