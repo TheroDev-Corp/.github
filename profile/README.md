@@ -3,6 +3,7 @@
 
 > **OPERATIONAL DOCTRINE:**
 > BUILD. DEPLOY. AUTOMATE.
+<img width="2400" height="1260" alt="og-image" src="https://github.com/user-attachments/assets/0d2448a7-e661-4007-b2a0-ff650bbbc5a9" />
 
 ### GLOBAL NETWORK STATUS
 
